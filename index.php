@@ -55,7 +55,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <h2>Calculadora</h2>
         <form method="POST">
             <input type="text" name="num1" placeholder="Número 1">
-            <input type="text" name="num2" placeholder="Número 2 hol">
+            <input type="text" name="num2" placeholder="Número 2 hola docker">
             <select name="operacion">
                 <option value="suma">Suma</option>
                 <option value="resta">Resta</option>
